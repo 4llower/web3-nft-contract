@@ -1,0 +1,11 @@
+{
+  "name": "Blaze Warrior",
+  "description": "Game character #1",
+  "image": "ipfs://bafybeih5m67a7qswanelqq6z43wlekv5zxdhhojlxjedouna4hcsbc5wy4",
+  "attributes": [
+    { "trait_type": "Color", "value": "red" },
+    { "trait_type": "Speed", "value": 6 },
+    { "trait_type": "Strength", "value": 8 },
+    { "trait_type": "Rarity", "value": "epic" }
+  ]
+}

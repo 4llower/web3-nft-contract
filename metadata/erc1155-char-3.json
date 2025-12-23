@@ -1,0 +1,11 @@
+{
+  "name": "Ember Mage",
+  "description": "Game character #3",
+  "image": "ipfs://bafybeic7rbztj66rwebidkm3g6mkzkibrupbzhvqfl7fsvomscf5h7duku",
+  "attributes": [
+    { "trait_type": "Color", "value": "crimson" },
+    { "trait_type": "Speed", "value": 5 },
+    { "trait_type": "Strength", "value": 7 },
+    { "trait_type": "Rarity", "value": "legendary" }
+  ]
+}

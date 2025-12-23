@@ -1,0 +1,11 @@
+{
+  "name": "Dusk Ranger",
+  "description": "Game character #2",
+  "image": "ipfs://bafybeicvadbqjedhngi5z2tbsa6ugkil7nplyhzh6i2viecxjl6pc4jcxi",
+  "attributes": [
+    { "trait_type": "Color", "value": "green" },
+    { "trait_type": "Speed", "value": 7 },
+    { "trait_type": "Strength", "value": 6 },
+    { "trait_type": "Rarity", "value": "rare" }
+  ]
+}

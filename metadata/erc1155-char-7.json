@@ -1,0 +1,11 @@
+{
+  "name": "Ion Monk",
+  "description": "Game character #7",
+  "image": "ipfs://bafybeichedtvbqppfcb254eyq4jj5xpyr2ep2t4y7rdaz2vnpra46a64la",
+  "attributes": [
+    { "trait_type": "Color", "value": "indigo" },
+    { "trait_type": "Speed", "value": 7 },
+    { "trait_type": "Strength", "value": 7 },
+    { "trait_type": "Rarity", "value": "uncommon" }
+  ]
+}

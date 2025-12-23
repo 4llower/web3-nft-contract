@@ -1,0 +1,11 @@
+{
+  "name": "Student Visit Card - Ihar Makeyenka",
+  "description": "Soulbound student visit card",
+  "image": "ipfs://bafybeie45narbxleiwn7niiv7f3lijhzfpjbwe7s7nxergm2j6iqsqabaq",
+  "attributes": [
+    { "trait_type": "studentName", "value": "Ihar Makeyenka" },
+    { "trait_type": "studentId", "value": "228322" },
+    { "trait_type": "course", "value": "Crypto" },
+    { "trait_type": "year", "value": "2025" }
+  ]
+}

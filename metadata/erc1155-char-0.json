@@ -1,0 +1,11 @@
+{
+  "name": "Astra Scout",
+  "description": "Game character #0",
+  "image": "ipfs://bafybeiec6yfius6ybljvedfvkb2fklt3edpsdge6lugnbynllctu52gmee",
+  "attributes": [
+    { "trait_type": "Color", "value": "blue" },
+    { "trait_type": "Speed", "value": 8 },
+    { "trait_type": "Strength", "value": 5 },
+    { "trait_type": "Rarity", "value": "rare" }
+  ]
+}

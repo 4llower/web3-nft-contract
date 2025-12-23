@@ -1,0 +1,11 @@
+{
+  "name": "Jade Engineer",
+  "description": "Game character #8",
+  "image": "ipfs://bafybeib2qbgbewttyr2z3fbtxyhtm5ypzojec3ypgk4efcjsaumdw3ybcm",
+  "attributes": [
+    { "trait_type": "Color", "value": "jade" },
+    { "trait_type": "Speed", "value": 6 },
+    { "trait_type": "Strength", "value": 6 },
+    { "trait_type": "Rarity", "value": "common" }
+  ]
+}

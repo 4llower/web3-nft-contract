@@ -1,0 +1,11 @@
+{
+  "name": "Halo Paladin",
+  "description": "Game character #6",
+  "image": "ipfs://bafybeib3otwkjo2ylu3hne5g2namitrm3advv7ugf7psfp25vfswif6ety",
+  "attributes": [
+    { "trait_type": "Color", "value": "gold" },
+    { "trait_type": "Speed", "value": 6 },
+    { "trait_type": "Strength", "value": 8 },
+    { "trait_type": "Rarity", "value": "legendary" }
+  ]
+}

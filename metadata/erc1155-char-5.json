@@ -1,0 +1,11 @@
+{
+  "name": "Gale Assassin",
+  "description": "Game character #5",
+  "image": "ipfs://bafybeiabjkncygylzyt7pv4xxduzvf4gdrmchk3ekzx4tlrxdrkedjmqym",
+  "attributes": [
+    { "trait_type": "Color", "value": "silver" },
+    { "trait_type": "Speed", "value": 10 },
+    { "trait_type": "Strength", "value": 3 },
+    { "trait_type": "Rarity", "value": "rare" }
+  ]
+}
