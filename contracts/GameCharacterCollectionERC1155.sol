@@ -81,14 +81,14 @@ contract GameCharacterCollectionERC1155 is ERC1155, Ownable {
         _characters[7] = Character("Ion Monk", "ipfs://bafybeichedtvbqppfcb254eyq4jj5xpyr2ep2t4y7rdaz2vnpra46a64la", "indigo", 7, 7, "uncommon");
         _characters[8] = Character("Jade Engineer", "ipfs://bafybeib2qbgbewttyr2z3fbtxyhtm5ypzojec3ypgk4efcjsaumdw3ybcm", "jade", 6, 6, "common");
 
-        _tokenUris[0] = "ipfs://bafkreigxva3j32tv6wx4muir7c2ncfiemm6clybr4hufzpi5o6bdxmol7i";
-        _tokenUris[1] = "ipfs://bafkreicq6kn4qmcxfcuyjmyod7jhxxn7rkdgr4zqc2dqdb57dr2ogqp7oi";
-        _tokenUris[2] = "ipfs://bafkreih22defsie3jlot7k6l6a25iv3fucc3apy7kltuzpnvfodsdpct4y";
-        _tokenUris[3] = "ipfs://bafkreid6cot3q4ih54m4s7sb6tzyxojacqhbcuunjlq45cqzdzpi6s4xfa";
-        _tokenUris[4] = "ipfs://bafkreib52g4m52sjip2rvkxrdfbdrdtanxqdcfzrmkygmy2dq4i766hs2u";
-        _tokenUris[5] = "ipfs://bafkreihpbyvk3xew52xtypifaqymnxdhk4ijazn6hlugqjugagw2u76xda";
-        _tokenUris[6] = "ipfs://bafkreienr7cggi4xh7w7scark5yk272qp2q43etyklj3grhyufhl54riiq";
-        _tokenUris[7] = "ipfs://bafkreifdezdx23kao5ltdnl2vatpzpbvgvb6oddadjoxmf63y6s5qsreyy";
-        _tokenUris[8] = "ipfs://bafkreiaj2p3b32kg7cgy5fvnides5xvzqmvp6yhopobnoiaijz3xtsfpne";
+        _tokenUris[0] = "https://ipfs.io/ipfs/bafkreigxva3j32tv6wx4muir7c2ncfiemm6clybr4hufzpi5o6bdxmol7i";
+        _tokenUris[1] = "https://ipfs.io/ipfs/bafkreicq6kn4qmcxfcuyjmyod7jhxxn7rkdgr4zqc2dqdb57dr2ogqp7oi";
+        _tokenUris[2] = "https://ipfs.io/ipfs/bafkreih22defsie3jlot7k6l6a25iv3fucc3apy7kltuzpnvfodsdpct4y";
+        _tokenUris[3] = "https://ipfs.io/ipfs/bafkreid6cot3q4ih54m4s7sb6tzyxojacqhbcuunjlq45cqzdzpi6s4xfa";
+        _tokenUris[4] = "https://ipfs.io/ipfs/bafkreib52g4m52sjip2rvkxrdfbdrdtanxqdcfzrmkygmy2dq4i766hs2u";
+        _tokenUris[5] = "https://ipfs.io/ipfs/bafkreihpbyvk3xew52xtypifaqymnxdhk4ijazn6hlugqjugagw2u76xda";
+        _tokenUris[6] = "https://ipfs.io/ipfs/bafkreienr7cggi4xh7w7scark5yk272qp2q43etyklj3grhyufhl54riiq";
+        _tokenUris[7] = "https://ipfs.io/ipfs/bafkreifdezdx23kao5ltdnl2vatpzpbvgvb6oddadjoxmf63y6s5qsreyy";
+        _tokenUris[8] = "https://ipfs.io/ipfs/bafkreiaj2p3b32kg7cgy5fvnides5xvzqmvp6yhopobnoiaijz3xtsfpne";
     }
 }
