@@ -68,7 +68,7 @@ STUDENT_YEAR=2025
 
 ### Metadata checks
 
-loggig from troubleshoot-metadata.json
+Logs from troubleshoot-metadata.js (verification that contracts returns proper uris)
 
 - SB tokenURI(1): ipfs://bafkreihq3k6ejonz7uyn6xuqwmegnjwiaiccumahl4znkn6u4awdc6f5c4
 - GC uris (0-8):
