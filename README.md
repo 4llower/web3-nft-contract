@@ -16,22 +16,6 @@ Hardhat project with two contracts: a soulbound student visit card (ERC-721) and
 npm install
 ```
 
-## .env template (never commit secrets)
-
-```
-PRIVATE_KEY=0x...
-RPC_URL=https://sepolia.infura.io/v3/<key>
-ETHERSCAN_API_KEY=<optional>
-STUDENT_ADDRESS=0xStudent
-SB_ADDRESS=0xDeployedSoulbound
-GC_ADDRESS=0xDeployedGameCollection
-SB_TOKEN_URI=https://ipfs.io/ipfs/<cid>
-STUDENT_NAME=Alice
-STUDENT_ID=S123
-STUDENT_COURSE=Blockchain
-STUDENT_YEAR=2025
-```
-
 ## Commands
 
 - Compile/tests: `npm run compile` / `npm run test`
